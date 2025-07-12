@@ -9,6 +9,6 @@
   "author": "Daniel Eugene Botha",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.8.0"
+    "canvas": "^2.11.2"
   }
 }
